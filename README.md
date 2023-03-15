@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live site URL: [Vercel](https://fm-stats-preview.vercel.app/)
+- Solution URL: [Responsive Stats Preview Component](https://www.frontendmentor.io/solutions/responsive-stats-preview-component-of3iu2Tx5P)
 
 ## My process
 
