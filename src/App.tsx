@@ -2,7 +2,7 @@ function App() {
   return (
     <main className="w-full h-screen overflow-hidden flex justify-center items-center">
       <div className="md:w-[1100px] md:h-[446px] mx-auto flex md:flex-row flex-col-reverse w-[330px] h-[780px] bg-secondary rounded-lg ">
-        <div className="md:max-w-[50%] max-h-[60%] md:max-h-full flex flex-1 flex-col items-center justify-center  md:px-[72px] px-8">
+        <div className="md:max-w-[50%] max-h-[60%] md:max-h-full flex flex-1 flex-col items-center justify-center md:mt-10 md:px-[72px] px-8">
           <div className="flex flex-col md:text-start md:mb-[72px] mb-[36px] text-center">
             <h1 className="md:text-[2.25rem] font-bold text-white mb-6 md:leading-[44px] text-[28px] leading-8">
               Get <span className="text-primary">insights</span> that help your
